@@ -72,7 +72,7 @@ h1 {
 .wr-intro .small__intro p {
   line-height: normal;
   text-transform: none;
-  font-family: cursive;
+/*   font-family: cursive; */
 }
 
 .wr-intro .small__intro span {
